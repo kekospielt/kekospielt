@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Keko Spielt (@kekospielt)
-- 🌱 I’m currently working on my own Server Network WolkenlosMC.eu
+- 👋 Hi, I’m Keko Spielt ([@kekospielt](https://github.com/kekospielt))
+- 🌱 I’m currently working on my own Server Network [WolkenlosMC.eu](WolkenlosMC (github.com))
 - 📫 How to reach me: @kekospielt on Discord
 - ⚡ Fun fact: I hate Javascript
